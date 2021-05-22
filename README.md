@@ -10,3 +10,8 @@
 
 
 ## CNN
+
+
+## References:
+1. https://github.com/shaoxiongji/sw-detection
+2. https://github.com/viniciosfaustino/suicide-detection
