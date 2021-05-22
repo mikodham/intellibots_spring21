@@ -6,6 +6,7 @@
 ### 1. pos_tag
 ### 2. word_embedding
 
-LSTM
+## LSTM
 
-CNN
+
+## CNN
