@@ -12,6 +12,12 @@
 ## CNN
 
 
+
+## Future Direction
+1. Adding more features
+2. Tuning Hyperparameters https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams
+3. Combine LSTM, CNN methods, and average the results => Build our own models
+
 ## References:
 1. https://github.com/shaoxiongji/sw-detection -> keras, use LSTM and RNN, features:LICW, POS_TAG, tf_idf, basic features
 2. https://github.com/viniciosfaustino/suicide-detection -> fastai, use RNN, features: NOT-given
