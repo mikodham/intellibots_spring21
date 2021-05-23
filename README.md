@@ -1,7 +1,5 @@
 # intellibots_spring21
 Spring2021_IntrotoAI_CS470 - Suicidal Ideation Detection by Intellibots
-
-Suicidal Ideation Detection by Intellibots
 1. Nabila Sindi Wulandari Listyo - 20180744
 2. Dhammiko Arya Gandamana - 20180848
 3. Timothy Manoj Mathews - 20170879
