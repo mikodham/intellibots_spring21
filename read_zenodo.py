@@ -19,11 +19,8 @@ for file_url in file_urls:
 
 df_negatives = master_df[master_df['Suicide Risk'].isin(['supportive','uninformative'])]
 df_negatives.reset_index(drop=True,inplace=True)
-#print(df_negatives.head(100))
+
 
 df_positives = master_df[master_df['Suicide Risk'].isin(['attempt','behavior','indicator','ideation'])]
 df_positives.reset_index(drop=True,inplace=True)
-#print(df_positives.head(100))
-
-#print(len(df_negatives.index),len(df_positives.index))
 
